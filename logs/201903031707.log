@@ -1,0 +1,15 @@
+2019-03-03 17:07:05,439-BrowserEngine-INFO-选择的浏览器是Chrome
+2019-03-03 17:07:22,512-BrowserEngine-INFO-打开谷歌浏览器
+2019-03-03 17:07:32,122-BasePage-INFO-<Discuz.pageobjects.HomePage1.testDiscuz1 object at 0x000001F5B14042B0>页面('name', 'username')元素发送成功
+2019-03-03 17:07:32,203-BasePage-INFO-<Discuz.pageobjects.HomePage1.testDiscuz1 object at 0x000001F5B14042B0>页面('name', 'password')元素发送成功
+2019-03-03 17:07:32,269-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="d7b7af9735da0ef024e02bdc7d783730", element="0.4800315920319873-3")>
+2019-03-03 17:07:54,727-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="d7b7af9735da0ef024e02bdc7d783730", element="0.6804078768722959-2")>
+2019-03-03 17:08:13,080-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="d7b7af9735da0ef024e02bdc7d783730", element="0.2590290074495156-2")>
+2019-03-03 17:08:24,829-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="d7b7af9735da0ef024e02bdc7d783730", element="0.14701554132540884-1")>
+2019-03-03 17:08:28,052-BasePage-INFO-<Discuz.pageobjects.HomePage4.testDiscuz4 object at 0x000001F5B13F9DD8>页面('css selector', '.bm .pbt .z input')元素发送成功
+2019-03-03 17:08:28,173-BasePage-INFO-<Discuz.pageobjects.HomePage4.testDiscuz4 object at 0x000001F5B13F9DD8>页面('css selector', '.sinf div:nth-child(4) p:nth-child(1) input')元素发送成功
+2019-03-03 17:08:28,295-BasePage-INFO-<Discuz.pageobjects.HomePage4.testDiscuz4 object at 0x000001F5B13F9DD8>页面('css selector', '.sinf div:nth-child(4) p:nth-child(2) input')元素发送成功
+2019-03-03 17:08:31,794-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="d7b7af9735da0ef024e02bdc7d783730", element="0.7673272181239559-4")>
+2019-03-03 17:08:44,597-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="d7b7af9735da0ef024e02bdc7d783730", element="0.29154827831660945-1")>
+2019-03-03 17:08:45,870-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="d7b7af9735da0ef024e02bdc7d783730", element="0.29154827831660945-2")>
+2019-03-03 17:08:50,945-BrowserEngine-INFO-关闭

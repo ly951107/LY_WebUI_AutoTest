@@ -1,0 +1,18 @@
+2019-03-03 17:21:59,353-BrowserEngine-INFO-选择的浏览器是Chrome
+2019-03-03 17:22:02,932-BrowserEngine-INFO-打开谷歌浏览器
+2019-03-03 17:22:17,141-BasePage-INFO-<Discuz.pageobjects.HomePage1.testDiscuz1 object at 0x0000026797F28F98>页面('name', 'username')元素发送成功
+2019-03-03 17:22:17,218-BasePage-INFO-<Discuz.pageobjects.HomePage1.testDiscuz1 object at 0x0000026797F28F98>页面('name', 'password')元素发送成功
+2019-03-03 17:22:17,278-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="24c2ecb60cada90d37e755328ea0da08", element="0.09585703578750548-3")>
+2019-03-03 17:22:19,404-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="24c2ecb60cada90d37e755328ea0da08", element="0.6541743597277867-2")>
+2019-03-03 17:22:24,854-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="24c2ecb60cada90d37e755328ea0da08", element="0.3890046828680296-2")>
+2019-03-03 17:22:25,628-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="24c2ecb60cada90d37e755328ea0da08", element="0.09733402455721252-1")>
+2019-03-03 17:22:28,923-BasePage-INFO-<Discuz.pageobjects.HomePage4.testDiscuz4 object at 0x0000026798DC5FD0>页面('css selector', '.bm .pbt .z input')元素发送成功
+2019-03-03 17:22:29,114-BasePage-INFO-<Discuz.pageobjects.HomePage4.testDiscuz4 object at 0x0000026798DC5FD0>页面('css selector', '.sinf div:nth-child(4) p:nth-child(1) input')元素发送成功
+2019-03-03 17:22:29,317-BasePage-INFO-<Discuz.pageobjects.HomePage4.testDiscuz4 object at 0x0000026798DC5FD0>页面('css selector', '.sinf div:nth-child(4) p:nth-child(2) input')元素发送成功
+2019-03-03 17:22:32,693-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="24c2ecb60cada90d37e755328ea0da08", element="0.8280665139806982-4")>
+2019-03-03 17:22:44,226-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="24c2ecb60cada90d37e755328ea0da08", element="0.24328106117711235-1")>
+2019-03-03 17:22:54,910-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="24c2ecb60cada90d37e755328ea0da08", element="0.24328106117711235-2")>
+2019-03-03 17:22:55,205-testDiscuz4-INFO-主题是：num
+2019-03-03 17:22:55,205-testDiscuz4-INFO-选项1名称：1.  two
+2019-03-03 17:22:55,205-testDiscuz4-INFO-选项1投票比例：100.00% (1)
+2019-03-03 17:23:00,207-BrowserEngine-INFO-关闭

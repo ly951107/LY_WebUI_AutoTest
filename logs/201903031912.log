@@ -1,0 +1,12 @@
+2019-03-03 19:12:53,740-BrowserEngine-INFO-选择的浏览器是Chrome
+2019-03-03 19:12:56,700-BrowserEngine-INFO-打开谷歌浏览器
+2019-03-03 19:13:00,607-BrowserEngine-INFO-选择的浏览器是Chrome
+2019-03-03 19:13:03,352-BrowserEngine-INFO-打开谷歌浏览器
+2019-03-03 19:13:04,511-BrowserEngine-INFO-选择的浏览器是Chrome
+2019-03-03 19:13:06,974-BrowserEngine-INFO-打开谷歌浏览器
+2019-03-03 19:13:07,998-BrowserEngine-INFO-选择的浏览器是Chrome
+2019-03-03 19:13:11,166-BrowserEngine-INFO-打开谷歌浏览器
+2019-03-03 19:13:19,986-BasePage-INFO-<Discuz.pageobjects.HomePage1.testDiscuz1 object at 0x000001288BC11BA8>页面('name', 'username')元素发送成功
+2019-03-03 19:13:20,069-BasePage-INFO-<Discuz.pageobjects.HomePage1.testDiscuz1 object at 0x000001288BC11BA8>页面('name', 'password')元素发送成功
+2019-03-03 19:13:20,127-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="e180b25e8af2a35a2b8edf02f62714fb", element="0.7006124190459275-3")>
+2019-03-03 19:13:20,611-BasePage-INFO-获取文本成功

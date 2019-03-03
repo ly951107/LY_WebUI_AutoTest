@@ -1,0 +1,100 @@
+2019-03-03 19:36:25,774-BrowserEngine-INFO-选择的浏览器是Chrome
+2019-03-03 19:36:29,038-BrowserEngine-INFO-打开谷歌浏览器
+2019-03-03 19:36:43,046-BasePage-INFO-<pageobjects.HomePage1.testDiscuz1 object at 0x0000020DDD0A0668>页面('name', 'username')元素发送成功
+2019-03-03 19:36:43,119-BasePage-INFO-<pageobjects.HomePage1.testDiscuz1 object at 0x0000020DDD0A0668>页面('name', 'password')元素发送成功
+2019-03-03 19:36:43,201-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="b8e5f9f8d62f9ff249af5a65709ab2ba", element="0.747032169202495-3")>
+2019-03-03 19:36:43,642-BasePage-INFO-获取文本成功
+2019-03-03 19:36:43,660-DiscuzTest1-INFO-用户名lxc登陆成功
+2019-03-03 19:36:45,078-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="b8e5f9f8d62f9ff249af5a65709ab2ba", element="0.0010992253522366102-2")>
+2019-03-03 19:36:45,094-BasePage-INFO-获取文本成功
+2019-03-03 19:36:45,133-DiscuzTest1-INFO-成功进入默认模块
+2019-03-03 19:36:45,285-BasePage-INFO-<pageobjects.HomePage1.testDiscuz1 object at 0x0000020DDD0A0668>页面('name', 'subject')元素发送成功
+2019-03-03 19:36:45,358-BasePage-INFO-<pageobjects.HomePage1.testDiscuz1 object at 0x0000020DDD0A0668>页面('css selector', '.area textarea')元素发送成功
+2019-03-03 19:37:15,883-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="b8e5f9f8d62f9ff249af5a65709ab2ba", element="0.13858014539302066-4")>
+2019-03-03 19:37:32,282-BasePage-INFO-<pageobjects.HomePage1.testDiscuz1 object at 0x0000020DDD0A0668>页面('css selector', '.pt')元素发送成功
+2019-03-03 19:37:37,773-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="b8e5f9f8d62f9ff249af5a65709ab2ba", element="0.9651385085363817-2")>
+2019-03-03 19:37:52,808-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="b8e5f9f8d62f9ff249af5a65709ab2ba", element="0.9651385085363817-3")>
+2019-03-03 19:37:57,808-BrowserEngine-INFO-关闭
+2019-03-03 19:38:00,204-BrowserEngine-INFO-选择的浏览器是Chrome
+2019-03-03 19:38:02,965-BrowserEngine-INFO-打开谷歌浏览器
+2019-03-03 19:38:13,282-BasePage-INFO-<pageobjects.HomePage2.testDiscuz2 object at 0x0000020DDD094198>页面('name', 'username')元素发送成功
+2019-03-03 19:38:13,361-BasePage-INFO-<pageobjects.HomePage2.testDiscuz2 object at 0x0000020DDD094198>页面('name', 'password')元素发送成功
+2019-03-03 19:38:13,429-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="19a6c874d8ed7ee24b9a38ea326267e3", element="0.6814663940063235-3")>
+2019-03-03 19:38:21,463-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="19a6c874d8ed7ee24b9a38ea326267e3", element="0.338543896443785-1")>
+2019-03-03 19:38:21,615-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="19a6c874d8ed7ee24b9a38ea326267e3", element="0.020456626123750432-1")>
+2019-03-03 19:38:25,256-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="19a6c874d8ed7ee24b9a38ea326267e3", element="0.020456626123750432-2")>
+2019-03-03 19:38:25,919-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="19a6c874d8ed7ee24b9a38ea326267e3", element="0.020456626123750432-3")>
+2019-03-03 19:38:34,272-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="19a6c874d8ed7ee24b9a38ea326267e3", element="0.39881621540952317-1")>
+2019-03-03 19:38:36,299-BasePage-INFO-激活窗口<pageobjects.HomePage2.testDiscuz2 object at 0x0000020DDD094198>成功
+2019-03-03 19:38:39,593-BasePage-INFO-<pageobjects.HomePage2.testDiscuz2 object at 0x0000020DDD094198>页面('name', 'admin_password')元素发送成功
+2019-03-03 19:39:38,487-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="19a6c874d8ed7ee24b9a38ea326267e3", element="0.3803984555669364-2")>
+2019-03-03 19:39:40,517-BasePage-INFO-激活窗口<pageobjects.HomePage2.testDiscuz2 object at 0x0000020DDD094198>成功
+2019-03-03 19:39:40,941-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="19a6c874d8ed7ee24b9a38ea326267e3", element="0.012330249646522962-1")>
+2019-03-03 19:39:43,002-BasePage-INFO-查找iframe元素成功
+2019-03-03 19:39:43,486-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="19a6c874d8ed7ee24b9a38ea326267e3", element="0.5120966186537863-1")>
+2019-03-03 19:39:46,194-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="19a6c874d8ed7ee24b9a38ea326267e3", element="0.5120966186537863-2")>
+2019-03-03 19:39:55,473-BasePage-INFO-有屏幕截图bingq保存的路径是/screenshots/
+2019-03-03 19:39:55,473-BasePage-ERROR-点击失败Message: no such element: Unable to locate element: {"method":"link text","selector":"退出"}
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017),platform=Windows NT 10.0.16299 x86_64)
+
+2019-03-03 19:39:55,488-BasePage-INFO-激活窗口<pageobjects.HomePage2.testDiscuz2 object at 0x0000020DDD094198>成功
+2019-03-03 19:40:05,878-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="19a6c874d8ed7ee24b9a38ea326267e3", element="0.39881621540952317-2")>
+2019-03-03 19:40:16,076-BasePage-INFO-<pageobjects.HomePage1.testDiscuz1 object at 0x0000020DDD0A0C18>页面('name', 'username')元素发送成功
+2019-03-03 19:40:16,233-BasePage-INFO-<pageobjects.HomePage1.testDiscuz1 object at 0x0000020DDD0A0C18>页面('name', 'password')元素发送成功
+2019-03-03 19:40:16,298-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="19a6c874d8ed7ee24b9a38ea326267e3", element="0.19327818564733223-3")>
+2019-03-03 19:40:27,083-BasePage-INFO-获取文本成功
+2019-03-03 19:40:39,659-BasePage-INFO-有屏幕截图bingq保存的路径是/screenshots/
+2019-03-03 19:40:39,660-BasePage-ERROR-点击失败Message: no such element: Unable to locate element: {"method":"css selector","selector":"tr:nth-child(2) td h2 a"}
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017),platform=Windows NT 10.0.16299 x86_64)
+
+2019-03-03 19:40:39,875-BasePage-INFO-<pageobjects.HomePage1.testDiscuz1 object at 0x0000020DDD0A0C18>页面('name', 'subject')元素发送成功
+2019-03-03 19:40:39,934-BasePage-INFO-<pageobjects.HomePage1.testDiscuz1 object at 0x0000020DDD0A0C18>页面('css selector', '.area textarea')元素发送成功
+2019-03-03 19:40:57,010-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="19a6c874d8ed7ee24b9a38ea326267e3", element="0.6712513547234673-4")>
+2019-03-03 19:41:02,011-BrowserEngine-INFO-关闭
+2019-03-03 19:41:04,409-BrowserEngine-INFO-选择的浏览器是Chrome
+2019-03-03 19:41:06,830-BrowserEngine-INFO-打开谷歌浏览器
+2019-03-03 19:41:19,143-BasePage-INFO-<pageobjects.HomePage1.testDiscuz1 object at 0x0000020DDD0C1EF0>页面('name', 'username')元素发送成功
+2019-03-03 19:41:19,234-BasePage-INFO-<pageobjects.HomePage1.testDiscuz1 object at 0x0000020DDD0C1EF0>页面('name', 'password')元素发送成功
+2019-03-03 19:41:19,309-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="733bdcaffe3154458444e6a38f022624", element="0.16703350690595253-3")>
+2019-03-03 19:41:19,747-BasePage-INFO-获取文本成功
+2019-03-03 19:41:21,927-BasePage-INFO-<pageobjects.HomePage3.testDiscuz3 object at 0x0000020DDD0C1D68>页面('name', 'srchtxt')元素发送成功
+2019-03-03 19:41:21,927-testDiscuz3-INFO-已输入haotest
+2019-03-03 19:41:22,090-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="733bdcaffe3154458444e6a38f022624", element="0.17487020667908593-3")>
+2019-03-03 19:41:22,090-testDiscuz3-INFO-点击搜索
+2019-03-03 19:41:24,108-BasePage-INFO-激活窗口<pageobjects.HomePage3.testDiscuz3 object at 0x0000020DDD0C1D68>成功
+2019-03-03 19:41:24,108-testDiscuz3-INFO-激活窗口
+2019-03-03 19:41:27,300-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="733bdcaffe3154458444e6a38f022624", element="0.5501604502637525-1")>
+2019-03-03 19:41:27,300-testDiscuz3-INFO-点击找到的haotest
+2019-03-03 19:41:27,324-BasePage-INFO-激活窗口<pageobjects.HomePage3.testDiscuz3 object at 0x0000020DDD0C1D68>成功
+2019-03-03 19:41:30,156-BasePage-INFO-获取文本成功
+2019-03-03 19:41:30,206-DiscuzTest3-INFO-断言成功，搜索到haotesthaotest
+2019-03-03 19:41:35,207-BrowserEngine-INFO-关闭
+2019-03-03 19:41:37,618-BrowserEngine-INFO-选择的浏览器是Chrome
+2019-03-03 19:41:40,043-BrowserEngine-INFO-打开谷歌浏览器
+2019-03-03 19:41:52,786-BasePage-INFO-<pageobjects.HomePage1.testDiscuz1 object at 0x0000020DDD0D2DA0>页面('name', 'username')元素发送成功
+2019-03-03 19:41:52,855-BasePage-INFO-<pageobjects.HomePage1.testDiscuz1 object at 0x0000020DDD0D2DA0>页面('name', 'password')元素发送成功
+2019-03-03 19:41:52,915-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="0f2a01b017e0cbc9a817d5c6b84e27de", element="0.4703608653065474-3")>
+2019-03-03 19:41:53,334-BasePage-INFO-获取文本成功
+2019-03-03 19:41:55,066-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="0f2a01b017e0cbc9a817d5c6b84e27de", element="0.6971363144579457-2")>
+2019-03-03 19:41:55,142-BasePage-INFO-获取文本成功
+2019-03-03 19:42:10,624-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="0f2a01b017e0cbc9a817d5c6b84e27de", element="0.31972452178858424-2")>
+2019-03-03 19:42:11,195-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="0f2a01b017e0cbc9a817d5c6b84e27de", element="0.7554447448601054-1")>
+2019-03-03 19:42:14,338-BasePage-INFO-<pageobjects.HomePage4.testDiscuz4 object at 0x0000020DDD07BCF8>页面('css selector', '.bm .pbt .z input')元素发送成功
+2019-03-03 19:42:14,443-BasePage-INFO-<pageobjects.HomePage4.testDiscuz4 object at 0x0000020DDD07BCF8>页面('css selector', '.sinf div:nth-child(4) p:nth-child(1) input')元素发送成功
+2019-03-03 19:42:14,540-BasePage-INFO-<pageobjects.HomePage4.testDiscuz4 object at 0x0000020DDD07BCF8>页面('css selector', '.sinf div:nth-child(4) p:nth-child(2) input')元素发送成功
+2019-03-03 19:42:17,789-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="0f2a01b017e0cbc9a817d5c6b84e27de", element="0.2802828804175317-4")>
+2019-03-03 19:42:29,113-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="0f2a01b017e0cbc9a817d5c6b84e27de", element="0.6595037045625884-1")>
+2019-03-03 19:42:29,916-BasePage-INFO-点击成功<selenium.webdriver.remote.webelement.WebElement (session="0f2a01b017e0cbc9a817d5c6b84e27de", element="0.6595037045625884-2")>
+2019-03-03 19:42:29,947-BasePage-INFO-获取文本成功
+2019-03-03 19:42:30,019-BasePage-INFO-获取文本成功
+2019-03-03 19:42:30,094-BasePage-INFO-获取文本成功
+2019-03-03 19:42:30,176-BasePage-INFO-获取文本成功
+2019-03-03 19:42:30,251-BasePage-INFO-获取文本成功
+2019-03-03 19:42:30,292-testDiscuz4-INFO-主题是：num
+2019-03-03 19:42:30,293-testDiscuz4-INFO-选项1名称：1.  two
+2019-03-03 19:42:30,293-testDiscuz4-INFO-选项1投票比例：100.00% (1)
+2019-03-03 19:42:30,293-testDiscuz4-INFO-选项2名称：2.  one
+2019-03-03 19:42:30,293-testDiscuz4-INFO-选项2投票比例：0.00% (0)
+2019-03-03 19:42:35,295-BrowserEngine-INFO-关闭
